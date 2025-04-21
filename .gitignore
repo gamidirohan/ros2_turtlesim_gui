@@ -1,0 +1,18 @@
+# Ignore ROS2 build directories
+build/
+install/
+log/
+
+# Ignore Python cache and bytecode files
+__pycache__/
+*.pyc
+
+# Ignore editor specific files (optional)
+.vscode/
+.idea/
+
+# Ignore backup files
+*~
+
+# Ignore environment variables file
+.env
